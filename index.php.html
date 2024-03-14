@@ -1163,7 +1163,7 @@
 			  </li>
 
             <li class="project-item  active" data-filter-item data-category="python">
-              <a href="https://github.com/Mathew-Tomy/Diabetic-Foot-Ulceration-Prediction" target="_blank">
+              <a href="" target="_blank">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -1308,7 +1308,7 @@
           <ul class="blog-posts-list">
 
             <li class="blog-post-item project-item active" data-filter-item data-category="aws">
-              <a href="https://www.credly.com/badges/b28008d2-de59-4a1f-8103-090c641c498f/public_url" target="_blank">
+              <a href="" target="_blank">
   
                 <figure class="blog-banner-box">
                   <img src="assets/images/aws-cloud-quest-cloud-practitioner.png" alt="AWS Badge" loading="lazy">
@@ -1336,7 +1336,7 @@
 
             
             <li class="blog-post-item project-item active" data-filter-item data-category="github">
-              <a href="https://github.com/users/Mathew/achievements/starstruck" target="_blank">
+              <a href="" target="_blank">
   
                 <figure class="blog-banner-box">
                   <img src="assets/images/github-badge-1.png" alt="GitHub Badge" loading="lazy">
@@ -1362,7 +1362,7 @@
             </li>
 
             <li class="blog-post-item project-item  active" data-filter-item data-category="github">
-              <a href="https://github.com/users/Mathew/achievements/pull-shark" target="_blank">
+              <a href="" target="_blank">
   
                 <figure class="blog-banner-box">
                   <img src="assets/images/github-badge-2.png" alt="GitHub Badge" loading="lazy">
